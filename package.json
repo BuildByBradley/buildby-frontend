@@ -1,4 +1,3 @@
-
 {
   "name": "buildby-frontend",
   "version": "0.1.0",
@@ -12,5 +11,8 @@
   "scripts": {
     "start": "vite",
     "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4"
   }
 }
